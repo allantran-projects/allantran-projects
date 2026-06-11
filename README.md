@@ -4,4 +4,4 @@ Projects
 - Rearview Controllable Camera System (in progress)
 
 Contact
-- LinkedIn: www.linkedin.com/in/allan-tran-644778348/
+- LinkedIn: www.linkedin.com/in/al-allan-tran/
